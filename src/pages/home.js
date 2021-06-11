@@ -42,7 +42,6 @@ class Home extends React.Component {
                                     </button>
                                 </nav>
                             </div>
-
                         </div>
                         <div class="hero-content">
                             <h1>Cari Cari</h1>
